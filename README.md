@@ -1,6 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aqua-ix&count_private=true&show_icons=true&line_height=30&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqua-ix&hide=Gnuplot,html&theme=dark" />
-</a>
+[![](https://raw.githubusercontent.com/Aqua-ix/Aqua-ix/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Aqua-ix/Aqua-ix/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Aqua-ix/Aqua-ix/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
