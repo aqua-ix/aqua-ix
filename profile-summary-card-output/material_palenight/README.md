@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/aqua-ix/aqua-ix/master/profile-summary-card-output/material_palenight/2-most-commit-language.svg)
-```
-
-    
