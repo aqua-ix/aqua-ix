@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/aqua-ix/aqua-ix/master/profile-summary-card-output/yeblu/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/aqua-ix/aqua-ix/master/profile-summary-card-output/yeblu/4-productive-time.svg)
-```
-
-    
